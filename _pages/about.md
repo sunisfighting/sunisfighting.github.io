@@ -63,4 +63,4 @@ For more info
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY&cl=ffffff&w=a"></script>
-<td align="center">&copy; Qingqiang Sun | Last update: Sep. 2022</td>
+<td align="center">&copy; Qingqiang Sun | Last update: 24/9/2022</td>
