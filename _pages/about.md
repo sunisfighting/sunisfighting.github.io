@@ -11,6 +11,9 @@ redirect_from:
 <h2 id="biography"> Biography</h2>
 I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
 
+<h2 id="news"> News</h2>
+2022.08.26: My paper titled "Towards Higher-order Topological Consistency for Unsupervised Network Alignment" has been accepted by the 39th IEEE International Conference on Data Engineering (ICDE 2023).
+
 <h2 id="publications"> Publications</h2>
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
