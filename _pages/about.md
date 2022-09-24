@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <h2 id="biography"> Biography</h2>
-I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of UNSW Scientia Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and ACR Future Fellow Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
+I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of *Member of Academia Europaea/IEEE Fellow/UNSW Scientia Professor* Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and *ARC Future Fellow* Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
 
 <h2 id="news"> News</h2>
 - 2022.08.26: One paper has been accepted by ICDE 2023.
@@ -27,7 +27,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
-<h2 id="honors & Awards"> Selected Honors \& Awards</h2>
+<h2 id="honors & Awards"> Selected Honors & Awards</h2>
 
 <!-- Getting started
 ======
