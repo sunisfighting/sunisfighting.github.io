@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
 <h1 id="biography"> Biography</h1>
 I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
 
@@ -28,9 +27,9 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
-<h2 id="honors"> Selected Honors</h2>
+<h1 id="honors"> Selected Honors</h1>
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
@@ -61,7 +60,7 @@ Example: editing a markdown file for a talk
 
 For more info
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY&cl=ffffff&w=a"></script>
 <td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 24/9/2022</td>
