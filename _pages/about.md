@@ -57,13 +57,17 @@ My research interests include graph representation learning, semi/un/self-superv
 
 <h2 id="academic services"> Academic Services</h2>
 
+- Program Committee
+  
+  - WISE 2021.
+
 - Invited Jounal Reviewer
 
   - IEEE Transactions on Industrial Informatics, ISA Transactions.
 
 - (External) Conference Reviewer
   
-  - WISE 2021, SIGKDD 2022.
+  - SIGKDD 2022.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY&cl=ffffff&w=a"></script>
 <td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 24/9/2022</td>
