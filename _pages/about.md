@@ -27,6 +27,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 
 <h2 id="publications"> Selected Publications</h2>
+*<sup>*</sup> denotes corresponding author(s). Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
 
 1. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.  
 
@@ -38,7 +39,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
-*<sup>*</sup> denotes corresponding author(s). Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
+
 
 <h2 id="honors & Awards"> Selected Scholarships, Honors, and Awards</h2>
 
