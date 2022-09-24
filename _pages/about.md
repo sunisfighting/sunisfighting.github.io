@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "3"
+title: "QINGQIANG SUN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
