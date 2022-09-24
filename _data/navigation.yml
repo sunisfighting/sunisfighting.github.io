@@ -7,7 +7,7 @@ main:
     url: /#news
     
   - title: "Publications"
-    url: /#publications/
+    url: /#publications
 
 #   - title: "Talks"
 #     url: /talks/    
@@ -25,7 +25,7 @@ main:
 #     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+    url: /cv
     
     
 #   - title: "Guide"
