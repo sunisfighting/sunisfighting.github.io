@@ -16,7 +16,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 
 <h2 id="publications"> Publications</h2>
-1. 
+
 ---
 layout: archive
 title: "Publications"
