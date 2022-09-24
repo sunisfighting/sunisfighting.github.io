@@ -16,6 +16,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 
 <h2 color=#0099ff id="publications"> Selected Publications</h2>
+
 1. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.  
 
 2. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application**, *IEEE Transactions on Cybernetics (**TCyb**)*, 52(5), 3457-3468, 2022. \[IF=19.12\]  
