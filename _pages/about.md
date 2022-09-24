@@ -16,11 +16,11 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 
 <h2 id="publications"> Selected Publications</h2>
-1. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
-2. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application**, *IEEE Transactions on Cybernetics (**TCyb**)*, 52(5), 3457-3468, 2022. \[IF=19.12\]
-3. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **A Survey on Deep Learning for Data-driven Soft Sensors**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(9), 5853-5866, 2021. \[IF=11.65, <font color=Tomato>ESI Hot Papers (Top 1‰)</font>\]
-4. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(1), 260-269, 2021. \[IF=11.65, <font color=Tomato>ESI Highly Cited Papers (Top 1％)</font>\]
-5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]
+1. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.  
+2. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application**, *IEEE Transactions on Cybernetics (**TCyb**)*, 52(5), 3457-3468, 2022. \[IF=19.12\]  
+3. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **A Survey on Deep Learning for Data-driven Soft Sensors**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(9), 5853-5866, 2021. \[IF=11.65, <font color=Tomato>ESI Hot Papers (Top 1‰)</font>\]  
+4. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(1), 260-269, 2021. \[IF=11.65, <font color=Tomato>ESI Highly Cited Papers (Top 1％)</font>\]  
+5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
 Getting started
 ======
