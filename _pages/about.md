@@ -12,7 +12,16 @@ redirect_from:
 I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (*Member of Academia Europaea/IEEE Fellow/UNSW Scientia Professor*) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) (*ARC Future Fellow*) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
 
 <h2 id="news"> News</h2>
-- 2022.08.26: One paper has been accepted by ICDE 2023.
+
+- \[08/2022\] One paper was accepted by ICDE 2023.
+
+- \[05/2022\] My paper titled "A Survey on Deep Learning for Data-driven Soft Sensors" was selected as a ESI Hot Paper and a Highly Cited Paper.
+
+- \[07/2021\] My paper titled "Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data" was selected as a ESI Highly Cited Paper.
+
+- \[03/2021\] I was granted the Outstanding Postgraduate Thesis Award by Chinese Institute of Electronics.
+
+- \[01/2021\] One survey paper was accepted by IEEE Transactions on Industrial Informatics.
 
 
 <h2 id="publications"> Selected Publications</h2>
