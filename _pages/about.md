@@ -22,6 +22,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 4. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(1), 260-269, 2021. \[IF=11.65, <font color=Tomato>ESI Highly Cited Papers (Top 1％)</font>\]  
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
+
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
