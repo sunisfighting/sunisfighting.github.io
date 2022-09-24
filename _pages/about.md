@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qingqiang Sun 孙庆强"
+title: "Qingqiang Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -27,6 +27,7 @@ h2 {id:"news";color: #232B2D} News
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
+<h2 id="honors"> Selected Honors</h2>
 
 Getting started
 ======
