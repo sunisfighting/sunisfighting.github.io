@@ -32,10 +32,12 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
   - Chinese Goverment Scholarship granted by China Scholarship Council (CSC), 2020-2024
   - National Scholarship for Postgraduates granted by Ministry of Education, PRC, 2019
   - National Scholarship for Graduates granted by Ministry of Education, PRC, 2016  
+
 - Honors:
   - Outstanding Postgraduate Thesis Award granted by Chinese Institute of Electronics (CIE), 2021
   - Outstanding Postgraduate Student of Zhejiang University, 2020
   - Outstanding Graduate Student of Xiamen University, 2017
+
 - Awards:
   - National First Prize of the 7th National Undergraduate Machinery Innovation Competition, 2016
   - Meritorious Winner (First Prize) of 2016 American Undergraduate Mathematical Contest in Modeling, 2016
