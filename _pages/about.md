@@ -27,7 +27,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
-<h2 id="honors & Awards"> Selected Honors & Awards</h2>
+<h2 id="honors & Awards"> Selected Scholarships, Honors, and Awards</h2>
 
 - Scholarships:
   - Chinese Goverment Scholarship granted by China Scholarship Council (CSC), 2020-2024
@@ -43,6 +43,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
   - National First Prize of the 7th National Undergraduate Machinery Innovation Competition, 2016
   - Meritorious Winner (First Prize) of 2016 American Undergraduate Mathematical Contest in Modeling, 2016
   - National Third Prize of the 9th National Undergraduate Electrician Mathematical Contest in Modeling in Chinese Society for Electrical Engineering Cup, 2016
+
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY&cl=ffffff&w=a"></script>
 <td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 24/9/2022</td>
