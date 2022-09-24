@@ -12,7 +12,7 @@ redirect_from:
 I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
 
 <h2 id="news"> News</h2>
-- 2022.08.26: My paper titled "Towards Higher-order Topological Consistency for Unsupervised Network Alignment" has been accepted by ICDE 2023.
+- 2022.08.26: One paper has been accepted by ICDE 2023.
 
 
 <h2 id="publications"> Selected Publications</h2>
@@ -61,3 +61,5 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY&cl=ffffff&w=a"></script>
