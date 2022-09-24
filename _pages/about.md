@@ -55,6 +55,15 @@ My research interests include graph representation learning, semi/un/self-superv
   - Meritorious Winner (First Prize) of American Undergraduate Mathematical Contest in Modeling, 2016
   - National Third Prize of the 9th National Undergraduate Electrician Mathematical Contest in Modeling in Chinese Society for Electrical Engineering Cup, 2016
 
+<h2 id="academic services"> Academic Services</h2>
+
+- Invited Jounal Reviewer
+
+  - IEEE Transactions on Industrial Informatics, ISA Transactions.
+
+- (External) Conference Reviewer
+  
+  - WISE 2021, SIGKDD 2022.
 
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY&cl=ffffff&w=a"></script>
 <td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 24/9/2022</td>
