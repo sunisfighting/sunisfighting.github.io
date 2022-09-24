@@ -16,13 +16,8 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 
 <h2 id="publications"> Publications</h2>
-
----
-layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: true
----
+1. **Qingqiang Sun**, Xuemin Lin^*^, Ying Zhang, Wenjie Zhang^*^, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
+2. **Qingqiang Sun**, Zhiqiang Ge^*^. **A Survey on Deep Learning for Data-driven Soft Sensors**, *IEEE Transactions on Industrial Informatics (*TII*)*, 17(9), 5853-5866, 2021. <mark>*ESI Hot Papers (Top 1&permil)*<mark>
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
