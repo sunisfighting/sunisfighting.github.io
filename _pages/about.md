@@ -27,7 +27,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
-<h2 id="honors"> Selected Honors</h2>
+<h2 id="honors & Awards"> Selected Honors \& Awards</h2>
 
 <!-- Getting started
 ======
