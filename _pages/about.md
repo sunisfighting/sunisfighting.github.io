@@ -50,7 +50,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 - Awards:
   - National First Prize of the 7th National Undergraduate Machinery Innovation Competition, 2016
-  - Meritorious Winner (First Prize) of 2016 American Undergraduate Mathematical Contest in Modeling, 2016
+  - Meritorious Winner (First Prize) of American Undergraduate Mathematical Contest in Modeling, 2016
   - National Third Prize of the 9th National Undergraduate Electrician Mathematical Contest in Modeling in Chinese Society for Electrical Engineering Cup, 2016
 
 
