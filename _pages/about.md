@@ -17,7 +17,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 <h2 id="publications"> Publications</h2>
 1. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.
-2. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **A Survey on Deep Learning for Data-driven Soft Sensors**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(9), 5853-5866, 2021. *ESI Hot Papers (Top 1&permil)*
+2. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **A Survey on Deep Learning for Data-driven Soft Sensors**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(9), 5853-5866, 2021. <mark>*ESI Hot Papers (Top 1‰)*<mark>
 
 
 Getting started
