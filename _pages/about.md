@@ -11,7 +11,7 @@ redirect_from:
 <h2 id="biography"> Biography</h2>
 I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (*Member of Academia Europaea/IEEE Fellow/UNSW Scientia Professor*) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) (*ARC Future Fellow*) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. 
 
-My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
+My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. Email adress: sunisfighting@gmail.com.
 
 <h2 id="news"> News</h2>
 
@@ -37,6 +37,8 @@ My research interests include graph representation learning, semi/un/self-superv
 4. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(1), 260-269, 2021. \[IF=11.65, <font color=Tomato>ESI Highly Cited Papers (Top 1％)</font>\]  
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
+
+*<sup>*</sup> denotes corresponding author(s). Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
 
 <h2 id="honors & Awards"> Selected Scholarships, Honors, and Awards</h2>
 
