@@ -1,4 +1,4 @@
----
+<!-- ---
 permalink: /
 title: "Qingqiang Sun (孙庆强)"
 excerpt: "About me"
@@ -6,16 +6,16 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
+--- -->
 
-<font color=#0099ff><h2 id="biography"> Biography</h2></font>
+<h2 id="biography"> Biography</h2>
 I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. 
 
 <h2 id="news"> News</h2>
 - 2022.08.26: My paper titled "Towards Higher-order Topological Consistency for Unsupervised Network Alignment" has been accepted by ICDE 2023.
 
 
-<h2 color=#0099ff id="publications"> Selected Publications</h2>
+<h2 id="publications"> Selected Publications</h2>
 
 1. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.  
 
