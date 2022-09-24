@@ -81,7 +81,6 @@ analytics:
 # Site Author
 author:
   name             : "Qingqiang Sun"
-  name_CN          : "孙庆强"
   avatar           : "qingqiang_sun.jpg"
   bio              : "PhD candidate in School of Computer Science and Engineering, University of New South Wales, Australia"
   location         : #"location"
