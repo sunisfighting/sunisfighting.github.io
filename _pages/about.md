@@ -18,7 +18,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 - 08/2022: *One paper was accepted by ICDE 2023.*
 
-- 05/2022: *My paper titled "A Survey on Deep Learning for Data-driven Soft Sensors" was selected as an ESI Hot Paper and a Highly Cited Paper.*
+- 05/2022: *My paper titled "A Survey on Deep Learning for Data-driven Soft Sensors" was selected as an ESI Hot Paper and an ESI Highly Cited Paper.*
 
 - 07/2021: *My paper titled "Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data" was selected as an ESI Highly Cited Paper.*
 
