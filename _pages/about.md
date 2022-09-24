@@ -40,8 +40,8 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 - Scholarships:
   - Chinese Goverment Scholarship granted by China Scholarship Council (CSC), 2020-2024
-  - National Scholarship for Postgraduates granted by Ministry of Education, PRC, 2019
-  - National Scholarship for Graduates granted by Ministry of Education, PRC, 2016  
+  - Chinese National Scholarship for Postgraduates granted by Ministry of Education, PRC, 2019
+  - Chinese National Scholarship for Graduates granted by Ministry of Education, PRC, 2016  
 
 - Honors:
   - Outstanding Postgraduate Thesis Award granted by Chinese Institute of Electronics (CIE), 2021
