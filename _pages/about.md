@@ -15,15 +15,15 @@ My research interests include graph representation learning, semi/un/self-superv
 
 <h2 id="news"> News</h2>
 
-- \[08/2022\] One paper was accepted by ICDE 2023.
+- *08/2022*: One paper was accepted by ICDE 2023.
 
-- 05/2022: My paper titled "A Survey on Deep Learning for Data-driven Soft Sensors" was selected as a ESI Hot Paper and a Highly Cited Paper.
+- *05/2022*: My paper titled "A Survey on Deep Learning for Data-driven Soft Sensors" was selected as a ESI Hot Paper and a Highly Cited Paper.
 
-- \[07/2021\]: My paper titled "Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data" was selected as a ESI Highly Cited Paper.
+- *07/2021*: My paper titled "Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data" was selected as a ESI Highly Cited Paper.
 
-- \[03/2021\]  I was granted the Outstanding Postgraduate Thesis Award by Chinese Institute of Electronics.
+- *03/2021*:  I was granted the Outstanding Postgraduate Thesis Award by Chinese Institute of Electronics.
 
-- \[01/2021\] One survey paper was accepted by IEEE Transactions on Industrial Informatics.
+- *01/2021*: One survey paper was accepted by IEEE Transactions on Industrial Informatics.
 
 
 <h2 id="publications"> Selected Publications</h2>
