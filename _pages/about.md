@@ -13,7 +13,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 
 <h2 id="news"> News</h2>
 - 2022.08.26: My paper titled "Towards Higher-order Topological Consistency for Unsupervised Network Alignment" has been accepted by ICDE 2023.
-- 
+
 
 <h2 id="publications"> Publications</h2>
 ======
