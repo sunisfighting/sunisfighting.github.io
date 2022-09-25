@@ -22,7 +22,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 - 07/2021: *My paper titled "Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data" was selected as an ESI Highly Cited Paper.*
 
-- 03/2021: *I was granted the Outstanding Postgraduate Thesis Award by Chinese Institute of Electronics.*
+- 03/2021: *I was granted the Outstanding Master Dissertation Award by Chinese Institute of Electronics.*
 
 - 01/2021: *One survey paper was accepted by IEEE Transactions on Industrial Informatics.*
 
@@ -47,18 +47,18 @@ My research interests include graph representation learning, semi/un/self-superv
 
 - **Scholarships:**
   - Chinese Goverment Scholarship granted by China Scholarship Council (CSC), 2020-2024
-  - Chinese National Scholarship for Postgraduates granted by Ministry of Education, PRC, 2019
+  - Chinese National Scholarship for Graduates granted by Ministry of Education, PRC, 2019
   - Chinese National Scholarship for Undergraduates granted by Ministry of Education, PRC, 2016  
 
 - **Honors:**
-  - Outstanding Postgraduate Thesis Award granted by Chinese Institute of Electronics (CIE), 2021
-  - Outstanding Postgraduate Student of Zhejiang University, 2020
-  - Outstanding Graduate Student of Xiamen University, 2017
+  - Outstanding Master Dissertation Award granted by Chinese Institute of Electronics (CIE), 2021
+  - Outstanding Graduate Award for Masters granted by Zhejiang University, 2020
+  - Outstanding Graduate Award for Bachelors granted by Xiamen University, 2017
 
 - **Awards:**
-  - National First Prize of the 7th National Undergraduate Machinery Innovation Competition, 2016
-  - Meritorious Winner (First Prize) of American Undergraduate Mathematical Contest in Modeling, 2016
-  - National Third Prize of the 9th National Undergraduate Electrician Mathematical Contest in Modeling in Chinese Society for Electrical Engineering Cup, 2016
+  - The First Award of the 7th National Undergraduate Machinery Innovation Competition, 2016
+  - The Meritorious Winner (the First Award) of American Undergraduate Mathematical Contest in Modeling, 2016
+  - The Third Award of the 9th National Undergraduate Electrician Mathematical Contest in Modeling in Chinese Society for Electrical Engineering Cup, 2016
 
 <h2 id="academic services"> Academic Services</h2>
 
