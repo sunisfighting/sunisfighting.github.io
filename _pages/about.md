@@ -43,7 +43,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 ## Selected Preprints
 
-1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *preprint*, DOI: [10.36227/techrxiv.21203096](https://doi.org/10.36227/techrxiv.21203096.v1), Sep. 2020.
+1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *preprint*, DOI: [10.36227/techrxiv.21203096](https://doi.org/10.36227/techrxiv.21203096.v1), Sep. 2022.
 
 <h2 id="honors & Awards"> Selected Scholarships, Honors, and Awards</h2>
 
