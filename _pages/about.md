@@ -76,4 +76,4 @@ My research interests include graph representation learning, semi/un/self-superv
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
 
-<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 24/9/2022</td>
+<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 30/9/2022</td>
