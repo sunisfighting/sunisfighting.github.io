@@ -41,7 +41,9 @@ My research interests include graph representation learning, semi/un/self-superv
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. \[IF=11.65\]  
 
+## Selected Preprints
 
+1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *preprint*, DOI: [10.36227/techrxiv.21203096](https://doi.org/10.36227/techrxiv.21203096.v1), Sep. 2020.
 
 <h2 id="honors & Awards"> Selected Scholarships, Honors, and Awards</h2>
 
