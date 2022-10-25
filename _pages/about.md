@@ -68,7 +68,7 @@ My research interests include graph representation learning, semi/un/self-superv
   - WISE 2021.
 
 - Invited Jounal Reviewer
-  - IEEE Transactions on Industrial Informatics, ISA Transactions.
+  - IEEE Transactions on Industrial Informatics, ISA Transactions, IEEE/CAA Journal of Automatica Sinica.
 
 - (External) Conference Reviewer  
   - SIGKDD 2022.
