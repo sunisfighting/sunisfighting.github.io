@@ -15,6 +15,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. Email address: sunisfighting@gmail.com.
 
 <h2 id="news"> News</h2>
+- 01/2023: *My paper titled "Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application" was selected as an ESI Highly Cited Paper.*
 
 - 08/2022: *One paper was accepted by ICDE 2023.*
 
@@ -33,7 +34,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 1. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.   
 
-2. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application**, *IEEE Transactions on Cybernetics (**TCyb**)*, 52(5), 3457-3468, 2022.   
+2. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application**, *IEEE Transactions on Cybernetics (**TCyb**)*, 52(5), 3457-3468, 2022. \[<font color=Tomato>ESI Highly Cited Papers</font>\]    
 
 3. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **A Survey on Deep Learning for Data-driven Soft Sensors**, *IEEE Transactions on Industrial Informatics (**TII**)*, 17(9), 5853-5866, 2021. \[<font color=Tomato>ESI Hot Papers</font>\]  
 
