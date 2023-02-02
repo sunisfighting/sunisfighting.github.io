@@ -15,6 +15,8 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. Email address: sunisfighting@gmail.com.
 
 <h2 id="news"> News</h2>
+- 01/2023: *I was granted the 1st Outstanding Master Dissertation Award (2022) by Chinese Association of Automation. The selection was carried out among the graduates of the past three years.*
+
 - 01/2023: *My paper titled "Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application" was selected as an ESI Highly Cited Paper.*
 
 - 08/2022: *One paper was accepted by ICDE 2023.*
@@ -23,7 +25,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 - 07/2021: *My paper titled "Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data" was selected as an ESI Highly Cited Paper.*
 
-- 03/2021: *I was granted the Outstanding Master Dissertation Award by Chinese Institute of Electronics.*
+- 03/2021: *I was granted the Outstanding Master Dissertation Award (2020) by Chinese Institute of Electronics.*
 
 - 01/2021: *One survey paper was accepted by IEEE Transactions on Industrial Informatics.*
 
@@ -44,7 +46,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 ## Selected Preprints
 
-1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *preprint*, DOI: [10.36227/techrxiv.21203096](https://doi.org/10.36227/techrxiv.21203096.v1), Sep. 2022.
+6. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *preprint*, DOI: [10.36227/techrxiv.21203096](https://doi.org/10.36227/techrxiv.21203096.v1), Sep. 2022.
 
 <h2 id="honors & Awards"> Selected Scholarships, Honors, and Awards</h2>
 
@@ -54,6 +56,7 @@ My research interests include graph representation learning, semi/un/self-superv
   - Chinese National Scholarship for Undergraduates granted by Ministry of Education, PRC, 2016  
 
 - **Honors:**
+  - Outstanding Master Dissertation Award granted by Chinese Association of Automation (CAA), 2022
   - Outstanding Master Dissertation Award granted by Chinese Institute of Electronics (CIE), 2021
   - Outstanding Graduate Award for Masters granted by Zhejiang University, 2020
   - Outstanding Graduate Award for Bachelors granted by Xiamen University, 2017
@@ -80,4 +83,4 @@ My research interests include graph representation learning, semi/un/self-superv
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
 
-<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 30/9/2022</td>
+<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 31/1/2023</td>
