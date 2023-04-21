@@ -15,13 +15,13 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. Email address: sunisfighting@gmail.com.
 
 <h2 id="news"> News</h2>
-- 04/2023: *One paper was accepted by IEEE Transactions on Knowledge and Engineering (TKDE).*
+- 04/2023: *One paper was accepted to IEEE Transactions on Knowledge and Engineering (TKDE).*
 
 - 01/2023: *I was granted the 1st Outstanding Master Dissertation Award (2022) by Chinese Association of Automation. The selection was carried out among the graduates of the past three years.*
 
 - 01/2023: *My paper titled "Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application" was selected as an ESI Highly Cited Paper.*
 
-- 08/2022: *One paper was accepted by IEEE International Conference on Data Engineering (ICDE) 2023.*
+- 08/2022: *One paper was accepted to IEEE International Conference on Data Engineering (ICDE) 2023.*
 
 - 05/2022: *My paper titled "A Survey on Deep Learning for Data-driven Soft Sensors" was selected as an ESI Hot Paper and an ESI Highly Cited Paper.*
 
