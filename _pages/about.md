@@ -49,7 +49,7 @@ My research interests include graph representation learning, semi/un/self-superv
 6. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. 
 
 
-<h2 id="honors & Awards"> Selected Scholarships, Honors, and Awards</h2>
+<h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
 - **Scholarships:**
   - Chinese Goverment Scholarship granted by China Scholarship Council (CSC), 2020-2024
@@ -67,7 +67,7 @@ My research interests include graph representation learning, semi/un/self-superv
   - The Meritorious Winner (the First Award) of American Undergraduate Mathematical Contest in Modeling, 2016
   - The Third Award of the 9th National Undergraduate Electrician Mathematical Contest in Modeling in Chinese Society for Electrical Engineering Cup, 2016
 
-<h2 id="academic services"> Academic Activities</h2>
+<h2 id="academic activities"> Academic Activities</h2>
 
 - Program Committee  
   - WISE 2021
@@ -86,4 +86,4 @@ My research interests include graph representation learning, semi/un/self-superv
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
 
-<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 31/1/2023</td>
+<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 30/4/2023</td>
