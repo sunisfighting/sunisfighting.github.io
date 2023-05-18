@@ -67,7 +67,7 @@ My research interests include graph representation learning, semi/un/self-superv
   - The Meritorious Winner (the First Award) of American Undergraduate Mathematical Contest in Modeling, 2016
   - The Third Award of the 9th National Undergraduate Electrician Mathematical Contest in Modeling in Chinese Society for Electrical Engineering Cup, 2016
 
-<h2 id="academic services"> Academic Services</h2>
+<h2 id="academic services"> Academic Activities</h2>
 
 - Program Committee  
   - WISE 2021
