@@ -15,7 +15,7 @@ I received the BEng degree from Xiamen University, China, in 2017, and the MEng 
 My research interests include graph representation learning, semi/un/self-supervised learning, and data-driven modeling. Email address: sunisfighting@gmail.com.
 
 <h2 id="news"> News</h2>
-- 04/2023: *One paper was accepted by IEEE Transactions on Knowledge and Engineering (TKDE).*
+- 04/2023: *One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).*
 
 - 01/2023: *I was granted the 1st Outstanding Master Dissertation Award (2022) by Chinese Association of Automation. The selection was carried out among the graduates of the past three years.*
 
@@ -36,7 +36,7 @@ My research interests include graph representation learning, semi/un/self-superv
 
 *The symbol <sup>*</sup> denotes corresponding author. Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
 
-1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *IEEE Transactions on Knowledge and Engineering (**TKDE**)*, DOI: [10.36227/techrxiv.21203096](https://doi.org/10.36227/techrxiv.21203096.v1), 2023.
+1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *IEEE Transactions on Knowledge and Engineering (**TKDE**)*, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
 
 2. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. **Towards Higher-order Topological Consistency for Unsupervised Network Alignment**, *IEEE International Conference on Data Engineering (**ICDE**)*, to appear, 2023.   
 
@@ -70,7 +70,7 @@ My research interests include graph representation learning, semi/un/self-superv
 <h2 id="academic services"> Academic Services</h2>
 
 - Program Committee  
-  - WISE 2021.
+  - WISE 2021
 
 - Invited Jounal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering
@@ -80,7 +80,8 @@ My research interests include graph representation learning, semi/un/self-superv
   - ISA Transactions
 
 - (External) Conference Reviewer  
-  - SIGKDD 2022.
+  - SIGKDD
+  - WWW
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
