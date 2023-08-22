@@ -77,6 +77,7 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
   - IEEE Transactions on Industrial Informatics 
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE/CAA Journal of Automatica Sinica
+  - Knowledge-Based Systems
   - ISA Transactions
 
 - (External) Conference Reviewer  
