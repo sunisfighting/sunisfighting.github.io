@@ -72,9 +72,6 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 
 <h2 id="academic activities"> Academic Activities</h2>
 
-- Program Committee  
-  - WISE 2021
-
 - Invited Jounal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Industrial Informatics 
@@ -85,6 +82,8 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 - (External) Conference Reviewer  
   - SIGKDD
   - WWW
+  - ICDE
+  - VLDB
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
