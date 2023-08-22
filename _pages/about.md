@@ -36,7 +36,7 @@ My research interests mainly focus on Industrial Artificial Intelligence and Gra
 
 *The symbol <sup>*</sup> denotes corresponding author. Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
 
-1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. **Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance**, *IEEE Transactions on Knowledge and Engineering (TKDE)*, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
+1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. *Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance*, **IEEE Transactions on Knowledge and Engineering (TKDE)**, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
 
 2. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. *Towards Higher-order Topological Consistency for Unsupervised Network Alignment*, **IEEE International Conference on Data Engineering (ICDE)**, to appear, 2023.   
 
@@ -49,6 +49,8 @@ My research interests mainly focus on Industrial Artificial Intelligence and Gra
 6. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application*, **IEEE Transactions on Industrial Informatics (TII)**, 15(5), 2700-2709, 2019. 
 
 7. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
+
+8. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou*. Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
 
 <h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
