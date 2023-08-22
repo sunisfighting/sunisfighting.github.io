@@ -34,7 +34,7 @@ My research interests mainly focus on Industrial Artificial Intelligence and Gra
 
 <h2 id="publications"> Selected Publications</h2>
 
-*The symbol <sup>*</sup> denotes corresponding author. Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
+*The symbol <sup>*</sup> denotes corresponding authors. Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
 
 1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. *Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance*, **IEEE Transactions on Knowledge and Engineering (TKDE)**, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
 
