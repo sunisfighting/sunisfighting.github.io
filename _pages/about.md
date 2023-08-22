@@ -48,6 +48,7 @@ My research interests mainly focus on Industrial Artificial Intelligence and Gra
 
 6. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. **Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application**, *IEEE Transactions on Industrial Informatics (**TII**)*, 15(5), 2700-2709, 2019. 
 
+7. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. **Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring**. Journal of Process Control (JPC), 2023.
 
 <h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
