@@ -12,7 +12,7 @@ redirect_from:
 
 I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (*Member of Academia Europaea/IEEE Fellow/UNSW Scientia Professor*) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) (*ARC Future Fellow*) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. 
 
-My research interests mainly focus on Industrial Artificial Intelligence and Graph Machine Learning. Email address: sunisfighting@gmail.com.
+My primary areas of study focus are Industrial Artificial Intelligence, Graph Machine Learning, and Data-Driven Modeling. Email address: sunisfighting@gmail.com.
 
 <h2 id="news"> News</h2>
 - 04/2023: *One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).*
@@ -50,7 +50,7 @@ My research interests mainly focus on Industrial Artificial Intelligence and Gra
 
 7. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
 
-8. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou*. Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
+8. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou*. *Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network*. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
 
 <h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
