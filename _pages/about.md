@@ -50,7 +50,7 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 
 7. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
 
-8. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou*. *Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network*. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
+8. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou<sup>\*</sup>. *Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network*. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
 
 <h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
