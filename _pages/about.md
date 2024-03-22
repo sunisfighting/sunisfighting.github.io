@@ -94,4 +94,4 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
 
-<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: 30/4/2023</td>
+<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: Mar 2024</td>
