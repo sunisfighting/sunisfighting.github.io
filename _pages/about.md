@@ -38,7 +38,7 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 
 1. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. *Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance*. **IEEE Transactions on Knowledge and Engineering (TKDE)**, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
 
-2. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. *Towards Higher-order Topological Consistency for Unsupervised Network Alignment*. **IEEE International Conference on Data Engineering (ICDE)**, to appear, 2023.   
+2. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. *Towards Higher-order Topological Consistency for Unsupervised Network Alignment*. **IEEE International Conference on Data Engineering (ICDE)**, 2023.   
 
 3. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application*. **IEEE Transactions on Cybernetics (TCyb**)**, 52(5), 3457-3468, 2022. \[<font color=Tomato>ESI Highly Cited Papers</font>\]    
 
