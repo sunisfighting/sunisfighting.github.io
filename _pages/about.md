@@ -46,11 +46,13 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 
 5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data*. **IEEE Transactions on Industrial Informatics (TII)**, 17(1), 260-269, 2021. \[<font color=Tomato>ESI Highly Cited Papers</font>\]  
 
-6. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application*. **IEEE Transactions on Industrial Informatics (TII)**, 15(5), 2700-2709, 2019. 
+6. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application*. **IEEE Transactions on Industrial Informatics (TII)**, 15(5), 2700-2709, 2019.
 
-7. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
+7. Kai Wang, Daojie He, **Qingqiang Sun**<sup>\*</sup>, Lizhi Yi, Xiaofeng Yuan, Yalin Wang. *Towards Global Information Extraction and Multi-Scale Feature Fusion for Remote Sensing Based Landslide Segmentation*. **APPLIED SOFT COMPUTING**, 2024. 
 
-8. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou<sup>\*</sup>. *Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network*. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
+8. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
+
+9. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou<sup>\*</sup>. *Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network*. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
 
 <h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
@@ -85,6 +87,9 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
   - WWW
   - ICDE
   - VLDB
+
+- Organizer
+  - Proceedings Chair：The 3rd International Workshop on [Large Scale Graph Data Analytics (LSGDA)](https://lsgda.github.io/2024) in conjunction with VLDB2024
 
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
