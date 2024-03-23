@@ -57,7 +57,6 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 <h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
 - **Scholarships:**
-%  - Chinese Goverment Scholarship granted by China Scholarship Council (CSC), 2020-2024
   - Chinese National Scholarship for Graduates granted by Ministry of Education, PRC, 2019
   - Chinese National Scholarship for Undergraduates granted by Ministry of Education, PRC, 2016  
 
