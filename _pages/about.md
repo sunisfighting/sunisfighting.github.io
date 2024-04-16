@@ -12,7 +12,7 @@ redirect_from:
 
 I received the BEng degree from Xiamen University, China, in 2017. I received the M.Eng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I received the PhD degree under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (*Member of Academia Europaea/IEEE Fellow/UNSW Scientia Professor*) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) (*ARC Future Fellow*) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia, in 2024.
 
-I am currently an associate professor in the School of Engineering, Great Bay University, Dongguan, China. My primary areas of study focus are Industrial Artificial Intelligence, Graph Machine Learning, and Data-Driven Modeling. I have sufficient fundings for research assistant and postdoc positions, please feel free to contact me with your cv. Email address: sunisfighting@gmail.com.
+I am currently an associate professor in the School of Engineering, Great Bay University, Dongguan, China. My primary areas of study focus are Industrial Artificial Intelligence, Graph Machine Learning, and Data-Driven Modeling. I have sufficient funding for research assistant and postdoc recruitments, please feel free to contact me with your cv. Email address: sunisfighting@gmail.com.
 
 <h2 id="news"> News</h2>
 - 04/2023: *One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).*
