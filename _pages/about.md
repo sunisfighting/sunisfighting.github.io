@@ -14,23 +14,6 @@ I received the BEng degree from Xiamen University, China, in 2017. I received th
 
 I am currently an associate professor in the School of Engineering, Great Bay University, Dongguan, China. My primary areas of study focus are Industrial Artificial Intelligence, Graph Machine Learning, and Data-Driven Modeling. I have sufficient funding for research assistant and postdoc recruitments, please feel free to contact me with your cv. Email address: sunisfighting@gmail.com.
 
-<h2 id="news"> News</h2>
-- 04/2023: *One paper was accepted by IEEE Transactions on Knowledge and Data Engineering (TKDE).*
-
-- 01/2023: *I was granted the 1st Outstanding Master Dissertation Award (2022) by Chinese Association of Automation. The selection was carried out among the graduates of the past three years.*
-
-- 01/2023: *My paper titled "Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application" was selected as an ESI Highly Cited Paper.*
-
-- 08/2022: *One paper was accepted by IEEE International Conference on Data Engineering (ICDE) 2023.*
-
-- 05/2022: *My paper titled "A Survey on Deep Learning for Data-driven Soft Sensors" was selected as an ESI Hot Paper and an ESI Highly Cited Paper.*
-
-- 07/2021: *My paper titled "Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data" was selected as an ESI Highly Cited Paper.*
-
-- 03/2021: *I was granted the Outstanding Master Dissertation Award (2020) by Chinese Institute of Electronics.*
-
-
-
 
 <h2 id="publications"> Selected Publications</h2>
 
