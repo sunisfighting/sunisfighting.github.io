@@ -10,7 +10,7 @@ redirect_from:
 
 <h2 id="biography"> Biography</h2>
 
-I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. I am currently a PhD candidate under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (*Member of Academia Europaea/IEEE Fellow/UNSW Scientia Professor*) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) (*ARC Future Fellow*) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia. 
+I received the Ph.D. degree under the joint supervision of Prof. [Xuemin Lin](https://www.cse.unsw.edu.au/~lxue/) (*Member of Academia Europaea/IEEE Fellow/UNSW Scientia Professor*) and Prof. [Wenjie Zhang](https://www.cse.unsw.edu.au/~zhangw/) (*ARC Future Fellow*) in the Data and Knowledge Research Group ([DKR](https://unswdb.github.io/index.html)), School of Computer Science and Engineering, University of New South Wales, Australia, in 2024. Before that, I received the BEng degree from Xiamen University, China, in 2017, and the MEng degree under the supervision of Prof. [Zhiqiang Ge](https://scholar.google.com.hk/citations?user=g_EMkuMAAAAJ&hl=zh-CN&oi=ao) from the Department of Control Science and Engineering, Zhejiang University, China, in 2020. 
 
 My primary areas of study focus are Industrial Artificial Intelligence, Graph Machine Learning, and Data-Driven Modeling. Email address: sunisfighting@gmail.com.
 
