@@ -48,7 +48,7 @@ My primary areas of study focus are Industrial Artificial Intelligence, Graph Ma
 
 6. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application*. **IEEE Transactions on Industrial Informatics (TII)**, 15(5), 2700-2709, 2019.
 
-7. Kai Wang, Daojie He, Lizhi Yi, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang. *Towards Global Information Extraction and Multi-Scale Feature Fusion for Remote Sensing Based Landslide Segmentation*. **APPLIED SOFT COMPUTING (ASC)**, 2024. 
+7. Kai Wang, Daojie He, **Qingqiang Sun**<sup>\*</sup>, Lizhi Yi, Xiaofeng Yuan, Yalin Wang. *Towards Global Information Extraction and Multi-Scale Feature Fusion for Remote Sensing Based Landslide Segmentation*. **APPLIED SOFT COMPUTING (ASC)**, 2024. 
 
 8. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
 
