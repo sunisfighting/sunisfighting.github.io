@@ -21,7 +21,7 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
 
 1. **Qingqiang Sun**, Kai wang, Wenjie Zhang, Peng Cheng, and Xuemin Lin<sup>\*</sup>. *Interdependence-Adaptive Mutual Information Maximization for Graph Contrastive Learning*. **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024. 
 
-2. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. *Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance*. **IEEE Transactions on Knowledge and Engineering (TKDE)**, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
+2. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. *Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance*. **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
 
 3. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. *Towards Higher-order Topological Consistency for Unsupervised Network Alignment*. **IEEE International Conference on Data Engineering (ICDE)**, 2023.   
 
