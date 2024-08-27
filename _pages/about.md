@@ -66,11 +66,9 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
   - Knowledge-Based Systems
   - ISA Transactions
 
-- (External) Conference Reviewer  
-  - SIGKDD
-  - WWW
-  - ICDE
-  - VLDB
+- Invited Conference Reviewer  
+  - ICLR 2025
+  - NeurIPS 2024
 
 - Organizer
   - Proceedings Chair：The 3rd International Workshop on [Large Scale Graph Data Analytics (LSGDA)](https://lsgda.github.io/2024) in conjunction with VLDB2024
