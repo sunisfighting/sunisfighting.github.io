@@ -60,6 +60,7 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
 
 - Invited Jounal Reviewer
   - IEEE Transactions on Knowledge and Data Engineering
+  - IEEE Transactions on Cybernetics
   - IEEE Transactions on Industrial Informatics 
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE/CAA Journal of Automatica Sinica
