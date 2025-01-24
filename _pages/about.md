@@ -77,7 +77,8 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
   - Knowledge-Based Systems
   - ISA Transactions
 
-- Invited Conference Reviewer  
+- Invited Conference Reviewer
+  - ICML 2025
   - ICLR 2025
   - NeurIPS 2024
 
