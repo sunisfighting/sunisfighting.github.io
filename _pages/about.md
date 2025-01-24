@@ -56,8 +56,8 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
   - Chinese National Scholarship for Undergraduates granted by Ministry of Education, PRC, 2016  
 
 - **Honors:**
-  - Outstanding Master Dissertation Award granted by Chinese Association of Automation (CAA), 2022
-  - Outstanding Master Dissertation Award granted by Chinese Institute of Electronics (CIE), 2021
+  - Outstanding Dissertation Award granted by Chinese Association of Automation (CAA), 2022
+  - Outstanding Dissertation Award granted by Chinese Institute of Electronics (CIE), 2021
   - Outstanding Graduate Award for Masters granted by Zhejiang University, 2020
   - Outstanding Graduate Award for Bachelors granted by Xiamen University, 2017
 
@@ -88,4 +88,4 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=djQAtmR3KX6TaEwxFDWlh01anIcVC0Tbv7U28jpnYzY'></script>
 
-<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: Mar 2024</td>
+<td align="center" font="Arial">&copy; Qingqiang Sun | Last updated: Jan 2025</td>
