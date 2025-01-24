@@ -69,13 +69,13 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
 <h2 id="academic activities"> Academic Activities</h2>
 
 - Invited Jounal Reviewer
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence
   - IEEE Transactions on Knowledge and Data Engineering
   - IEEE Transactions on Cybernetics
   - IEEE Transactions on Industrial Informatics 
   - IEEE Transactions on Neural Networks and Learning Systems
   - IEEE/CAA Journal of Automatica Sinica
-  - Knowledge-Based Systems
-  - ISA Transactions
+
 
 - Invited Conference Reviewer
   - ICML 2025
