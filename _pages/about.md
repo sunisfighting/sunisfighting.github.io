@@ -19,25 +19,35 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
 
 *The symbol <sup>*</sup> denotes corresponding authors. Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
 
-1. **Qingqiang Sun**, Kai wang, Wenjie Zhang, Peng Cheng, and Xuemin Lin<sup>\*</sup>. *Interdependence-Adaptive Mutual Information Maximization for Graph Contrastive Learning*. **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, 2024. 
 
-2. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. *Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance*. **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
+1. Ziyue Qiao, Junren Xiao, **Qingqiang Sun**<sup>\*</sup>, Meng Xiao, Hui Xiong<sup>\*</sup>. *Holistic Memory Diversification for Incremental Learning in Growing Graphs*. **ICLR 2025**.
 
-3. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. *Towards Higher-order Topological Consistency for Unsupervised Network Alignment*. **IEEE International Conference on Data Engineering (ICDE)**, 2023.   
+2. **Qingqiang Sun**, Chaoqi Chen, Ziyue Qiao<sup>\*</sup>, Xubin Zheng, Kai Wang<sup>\*</sup>. *Single-View Graph Contrastive Learning with Soft Neighborhood Awareness*. **AAAI 2025**.
 
-4. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application*. **IEEE Transactions on Cybernetics (TCyb)**, 52(5), 3457-3468, 2022. \[<font color=Tomato>ESI Highly Cited Papers</font>\]    
+3. Mingrong Gong, Chaoqi Chen<sup>\*</sup>, **Qingqiang Sun**,  Yue Wang, Hui Huang. *Out-of-Distribution Detection with Prototypical Outlier Proxy*. **AAAI 2025**.
+   
+4. Xinlei Huang, Zhiqi Ma, Dian Meng, Yanran Liu, Shiwei Ruan, **Qingqiang Sun**, Xubin Zheng<sup>\*</sup>, Ziyue Qiao. *PRAGA: Prototype-aware Graph Adaptive Aggregation for Spatial Multi-modal Omics Analysis*. **AAAI 2025**.
 
-5. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *A Survey on Deep Learning for Data-driven Soft Sensors*. **IEEE Transactions on Industrial Informatics (TII)**, 17(9), 5853-5866, 2021. \[<font color=Tomato>ESI Hot Papers</font>\]  
+5. **Qingqiang Sun**, Kai wang, Wenjie Zhang, Peng Cheng, and Xuemin Lin<sup>\*</sup>. *Interdependence-Adaptive Mutual Information Maximization for Graph Contrastive Learning*. **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, DOI: [10.1109/TKDE.2024.3423409](https://ieeexplore.ieee.org/document/10596072)， 2024.
 
-6. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data*. **IEEE Transactions on Industrial Informatics (TII)**, 17(1), 260-269, 2021. \[<font color=Tomato>ESI Highly Cited Papers</font>\]  
+6. Kai Wang, Daojie He, **Qingqiang Sun**<sup>\*</sup>, Lizhi Yi, Xiaofeng Yuan, Yalin Wang. *Towards Global Information Extraction and Multi-Scale Feature Fusion for Remote Sensing Based Landslide Segmentation*. **APPLIED SOFT COMPUTING (ASC)**, 2024. 
 
-7. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application*. **IEEE Transactions on Industrial Informatics (TII)**, 15(5), 2700-2709, 2019.
+7. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
 
-8. Kai Wang, Daojie He, **Qingqiang Sun**<sup>\*</sup>, Lizhi Yi, Xiaofeng Yuan, Yalin Wang. *Towards Global Information Extraction and Multi-Scale Feature Fusion for Remote Sensing Based Landslide Segmentation*. **APPLIED SOFT COMPUTING (ASC)**, 2024. 
+8. **Qingqiang Sun**, Wenjie Zhang, Xuemin Lin<sup>\*</sup>. *Progressive Hard Negative Masking: From Global Uniformity to Local Tolerance*. **IEEE Transactions on Knowledge and Data Engineering (TKDE)**, DOI: [10.1109/TKDE.2023.3269795](https://doi.org/10.1109/TKDE.2023.3269795), 2023.
 
-9. Kai Wang, Zihui Cao, Danrong Wang, **Qingqiang Sun**<sup>\*</sup>, Xiaofeng Yuan, Yalin Wang, and Chenliang Liu<sup>\*</sup>. *Manifoldconstrained Trace Ratio Optimization for Nonstationary Process Performance Monitoring*. **Journal of Process Control (JPC)**, 2023.
+9. **Qingqiang Sun**, Xuemin Lin<sup>\*</sup>, Ying Zhang, Wenjie Zhang<sup>\*</sup>, Chaoqi Chen. *Towards Higher-order Topological Consistency for Unsupervised Network Alignment*. **IEEE International Conference on Data Engineering (ICDE)**, 2023.   
 
-10. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou<sup>\*</sup>. *Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network*. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
+10. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Gated Stacked Target-Related Autoencoder: A Novel Deep Feature Extraction and Layerwise Ensemble Method for Industrial Soft Sensor Application*. **IEEE Transactions on Cybernetics (TCyb)**, 52(5), 3457-3468, 2022. \[<font color=Tomato>ESI Highly Cited Papers</font>\]
+
+11. Junhua Zheng, Chao Wu, **Qingqiang Sun**, Zhihuan Song, and Le Zhou<sup>\*</sup>. *Deep learning of complex process data for fault classification based on sparse probabilistic dynamic network*. **Journal of the Taiwan Institute of Chemical Engineers**, 138, 104498, 2022.
+
+12. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *A Survey on Deep Learning for Data-driven Soft Sensors*. **IEEE Transactions on Industrial Informatics (TII)**, 17(9), 5853-5866, 2021. \[<font color=Tomato>ESI Hot Papers</font>\]  
+
+13. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Deep Learning for Industrial KPI Prediction: When Ensemble Learning Meets Semi-Supervised Data*. **IEEE Transactions on Industrial Informatics (TII)**, 17(1), 260-269, 2021. \[<font color=Tomato>ESI Highly Cited Papers</font>\]  
+
+14. **Qingqiang Sun**, Zhiqiang Ge<sup>\*</sup>. *Probabilistic Sequential Network for Deep Learning of Complex Process Data and Soft Sensor Application*. **IEEE Transactions on Industrial Informatics (TII)**, 15(5), 2700-2709, 2019.
+
 
 <h2 id="honors & awards"> Selected Scholarships, Honors, and Awards</h2>
 
