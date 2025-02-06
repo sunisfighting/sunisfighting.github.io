@@ -74,7 +74,6 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
   - IEEE Transactions on Cybernetics
   - IEEE Transactions on Industrial Informatics 
   - IEEE Transactions on Neural Networks and Learning Systems
-  - IEEE/CAA Journal of Automatica Sinica
 
 
 - Invited Conference Reviewer
