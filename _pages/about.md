@@ -19,7 +19,6 @@ I am currently an assistant professor in the School of Engineering, Great Bay Un
 
 *The symbol <sup>*</sup> denotes corresponding authors. Full publications are available in [Google Scholar](https://scholar.google.com.hk/citations?user=ASifHRAAAAAJ&hl=zh-CN).*
 
-
 1. Ziyue Qiao, Junren Xiao, **Qingqiang Sun**<sup>\*</sup>, Meng Xiao, Hui Xiong<sup>\*</sup>. *Holistic Memory Diversification for Incremental Learning in Growing Graphs*. **ICLR 2025**.
 
 2. **Qingqiang Sun**, Chaoqi Chen, Ziyue Qiao<sup>\*</sup>, Xubin Zheng, Kai Wang<sup>\*</sup>. *Single-View Graph Contrastive Learning with Soft Neighborhood Awareness*. **AAAI 2025**.
